@@ -1,6 +1,7 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 # Hello 🌎, I'm Aidil Baihaqi
+<img src="https://komarev.com/ghpvc/?username=aidilbaihaqi&label=Profile%20views&color=0e75b6&style=flat" alt="aidilbaihaqi" />
 
 A passionate Junior Programmer and Mentor. Experienced in mentoring junior developers and sharing knowledge in web development. Successfully completed various freelance projects, including dynamic web application development for individuals, businesses, and government organizations. Committed to self-development and making a positive impact on the developer community and always want to be someone who is useful to others in the field of information technology. 🚀
 
@@ -30,8 +31,6 @@ A passionate Junior Programmer and Mentor. Experienced in mentoring junior devel
   <a href="https://youtube.com/channel/aidilbaihaqi" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="background: linear-gradient(135deg, #FF0000, #D70000); border-radius: 8px;">
   </a>
-
-  <img src="https://komarev.com/ghpvc/?username=aidilbaihaqi&label=Profile%20views&color=0e75b6&style=flat" alt="aidilbaihaqi" />
 
 </div>
 
