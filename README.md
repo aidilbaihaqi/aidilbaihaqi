@@ -2,6 +2,13 @@
 
 # Hello 🌎, I'm Aidil Baihaqi
 
+A passionate Junior Programmer and Mentor. Experienced in mentoring junior developers and sharing knowledge in web development. Successfully completed various freelance projects, including dynamic web application development for individuals, businesses, and government organizations. Committed to self-development and making a positive impact on the developer community and always want to be someone who is useful to others in the field of information technology. 🚀
+
+- 🌐 Focused on <b>Full Stack Development and Artificial Intelligence</b>
+- 🏫 Informatics Engineering Student on Raja Ali Haji Maritime University
+- ⚡ Fun fact: Enjoy playing Valorant
+
+<h3 align="left">Connect with me:</h3>
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
 
   <!-- GitHub -->
@@ -36,20 +43,6 @@
 
 </div>
 
-A passionate Junior Programmer and Mentor. Experienced in mentoring junior developers and sharing knowledge in web development. Successfully completed various freelance projects, including dynamic web application development for individuals, businesses, and government organizations. Committed to self-development and making a positive impact on the developer community and always want to be someone who is useful to others in the field of information technology. 🚀
-
-
-- 🌐 Focused on <b>Full Stack Development and Artificial Intelligence</b>
-- 🏫 Informatics Engineering Student on Raja Ali Haji Maritime University
-- ⚡ Fun fact: Enjoy playing Valorant
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/RenatoResabala" target="blank"><i align="center" class="devicon-twitter-original" alt="Renato_Resabala" height="40" width="60" ></i>
-</a>
-<a href="https://www.linkedin.com/in/renato-r-611795133/" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="Renato_Resabala" height="40" width="60" ></i>
-</a>
-</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aidilbaihaqi&label=Profile%20views&color=0e75b6&style=flat" alt="aidilbaihaqi" /> </p>
 
