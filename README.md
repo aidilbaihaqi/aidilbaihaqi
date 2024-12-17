@@ -1,12 +1,13 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<script src="https://kit.fontawesome.com/e632a4a2d6.js" crossorigin="anonymous"></script>
 
 ### Hello 🌎, I'm Aidil Baihaqi
 
-With over 8 years of experience as a Software Engineer, I'm on a mission to create technology solutions that connect the digital world with real life! I have the power to develop in frontend, backend, which allows me to bring my magic to both revolutionary startups and giant enterprise projects. I'm passionate about writing clean, maintainable code and design with users in mind, thriving in environments that love innovation and continuous professional growth. Let's make technology shine! 🚀
+A passionate Junior Programmer and Mentor. With experience in mentoring junior developers and sharing knowledge in web development. Successfully delivered numerous freelance projects, including dynamic web application development for individuals, businesses, and government organizations. Skilled in using Laravel, Tailwind CSS, React.js, and Figma to develop customized solutions for clients. Committed to personal growth and making a positive impact on the developer community. 🚀
 
 
-  - 🔭 I’m currently working on upgrading java applications from jdk 8 to 21.
-  - 🌱 I’m currently learning; Junit, Jakarta, Spring Security, Spring Cloud.
+  - <i class="fa-solid fa-school"></i> I’m currently studying at <b>Raja Ali Haji Maritim University</b>
+  - 🌱 I’m currently life :>, Bintan, Riau Island
   - 💬 Ask me about **Html, Css, Sass, Bootstrap, Javascript, Typescript, React,  PHP,  Lumen, Laravel,  C#, .NET, Java, Spring Boot, Scrum, Google Cloud Platform, GKE, GCE, CI/CD, TDD, DDD, Docker, Kubernetes**
   - ⚡ Fun fact: I look like a hobbit.
 
