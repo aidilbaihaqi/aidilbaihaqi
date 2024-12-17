@@ -12,39 +12,31 @@ A passionate Junior Programmer and Mentor. Experienced in mentoring junior devel
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
 
   <!-- GitHub -->
-  <a href="https://github.com/username" target="_blank">
+  <a href="https://github.com/aidilbaihaqi" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="background: linear-gradient(135deg, #000000, #434343); border-radius: 8px;">
   </a>
 
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/username" target="_blank">
+  <a href="https://linkedin.com/in/aidilbaihaqi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="background: linear-gradient(135deg, #0077B5, #005582); border-radius: 8px;">
   </a>
 
-  <!-- Twitter -->
-  <a href="https://twitter.com/username" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="background: linear-gradient(135deg, #1DA1F2, #0d8bf0); border-radius: 8px;">
-  </a>
-
   <!-- Instagram -->
-  <a href="https://instagram.com/username" target="_blank">
+  <a href="https://instagram.com/albyhaqee" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="background: linear-gradient(135deg, #E4405F, #FF7A45); border-radius: 8px;">
   </a>
 
-  <!-- Facebook -->
-  <a href="https://facebook.com/username" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="background: linear-gradient(135deg, #1877F2, #145dbf); border-radius: 8px;">
-  </a>
-
   <!-- YouTube -->
-  <a href="https://youtube.com/channel/username" target="_blank">
+  <a href="https://youtube.com/channel/aidilbaihaqi" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="background: linear-gradient(135deg, #FF0000, #D70000); border-radius: 8px;">
   </a>
+
+  <img src="https://komarev.com/ghpvc/?username=aidilbaihaqi&label=Profile%20views&color=0e75b6&style=flat" alt="aidilbaihaqi" />
 
 </div>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aidilbaihaqi&label=Profile%20views&color=0e75b6&style=flat" alt="aidilbaihaqi" /> </p>
+<p align="left">  </p>
 
 
 ------
@@ -64,23 +56,15 @@ A passionate Junior Programmer and Mentor. Experienced in mentoring junior devel
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=php,java,cs,net,python,laravel,spring,maven,hibernate,nodejs,fastapi,flask,express,nginx,vite"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=php,python,laravel,nodejs,fastapi,flask,express,nginx,vite"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vue,vuetify,react,mui,bootstrap,html,css,sass,js,ts,figma"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,mui,bootstrap,html,css,sass,js,ts,figma,tailwind"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,elasticsearch"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,terraform,jenkins,githubactions,gitlarun"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Automated test:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=selenium,jest,pytest,phpunit"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
@@ -88,15 +72,11 @@ A passionate Junior Programmer and Mentor. Experienced in mentoring junior devel
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,phpstorm,eclipse,visualstudio,webstorm,sublime"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=rabbitmq,grafana,bash"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,phpstorm,eclipse,visualstudio"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,debian,alpine"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu"/></td>
     </tr>
 </table>
 
