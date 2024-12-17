@@ -2,13 +2,46 @@
 
 # Hello 🌎, I'm Aidil Baihaqi
 
-A passionate Junior Programmer and Mentor. With experience in mentoring junior developers and sharing knowledge in web development. Successfully delivered numerous freelance projects, including dynamic web application development for individuals, businesses, and government organizations. Skilled in using Laravel, Tailwind CSS, React.js, and Figma to develop customized solutions for clients. Committed to personal growth and making a positive impact on the developer community. 🚀
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+
+  <!-- GitHub -->
+  <a href="https://github.com/username" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="background: linear-gradient(135deg, #000000, #434343); border-radius: 8px;">
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/username" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="background: linear-gradient(135deg, #0077B5, #005582); border-radius: 8px;">
+  </a>
+
+  <!-- Twitter -->
+  <a href="https://twitter.com/username" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="background: linear-gradient(135deg, #1DA1F2, #0d8bf0); border-radius: 8px;">
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/username" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="background: linear-gradient(135deg, #E4405F, #FF7A45); border-radius: 8px;">
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://facebook.com/username" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="background: linear-gradient(135deg, #1877F2, #145dbf); border-radius: 8px;">
+  </a>
+
+  <!-- YouTube -->
+  <a href="https://youtube.com/channel/username" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="background: linear-gradient(135deg, #FF0000, #D70000); border-radius: 8px;">
+  </a>
+
+</div>
+
+A passionate Junior Programmer and Mentor. Experienced in mentoring junior developers and sharing knowledge in web development. Successfully completed various freelance projects, including dynamic web application development for individuals, businesses, and government organizations. Committed to self-development and making a positive impact on the developer community and always want to be someone who is useful to others in the field of information technology. 🚀
 
 
-  - 🏫 I’m currently studying at <b>Raja Ali Haji Maritim University</b>, majoring on <b>Informatics Engineering.</b>
-  - 🌱 I’m currently life :>, Bintan, Riau Island
-  - 💬 Ask me about **Html, Css, Sass, Bootstrap, Javascript, Typescript, React,  PHP,  Lumen, Laravel,  C#, .NET, Java, Spring Boot, Scrum, Google Cloud Platform, GKE, GCE, CI/CD, TDD, DDD, Docker, Kubernetes**
-  - ⚡ Fun fact: I look like a hobbit.
+- 🌐 Focused on <b>Full Stack Development and Artificial Intelligence</b>
+- 🏫 Informatics Engineering Student on Raja Ali Haji Maritime University
+- ⚡ Fun fact: Enjoy playing Valorant
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,11 +65,6 @@ A passionate Junior Programmer and Mentor. With experience in mentoring junior d
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aidilbaihaqi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aidilbaihaqi"/>
   </a>
 </div>
-<p align="center">
-  <a href="https://github.com/aidilbaihaqi">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aidilbaihaqi&&theme=tokyonight" alt="aidilbaihaqi" />
-  </a>
-</p>
 
 ------
 <h3 align="left">Languages and Tools:</h3>
@@ -80,5 +108,3 @@ A passionate Junior Programmer and Mentor. With experience in mentoring junior d
 </table>
 
 ------
-[aidilbaihaqi](https://github.com/aidilbaihaqi)
-26/07/2024
