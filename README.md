@@ -39,18 +39,6 @@ A passionate Junior Programmer and Mentor. Experienced in mentoring junior devel
 
 
 ------
-<h3 align="left">Activity:</h3>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aidilbaihaqi&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div align="center">
-  <a href="https://github.com/aidilbaihaqi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=aidilbaihaqi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aidilbaihaqi"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aidilbaihaqi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aidilbaihaqi"/>
-  </a>
-</div>
-
-------
 <h3 align="left">Languages and Tools:</h3>
 <table>
     <tr>
@@ -78,5 +66,17 @@ A passionate Junior Programmer and Mentor. Experienced in mentoring junior devel
         <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu"/></td>
     </tr>
 </table>
+
+------
+<h3 align="left">Activity:</h3>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aidilbaihaqi&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+  <a href="https://github.com/aidilbaihaqi">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=aidilbaihaqi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aidilbaihaqi"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aidilbaihaqi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aidilbaihaqi"/>
+  </a>
+</div>
 
 ------
