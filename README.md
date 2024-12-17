@@ -1,12 +1,11 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-<script src="https://kit.fontawesome.com/e632a4a2d6.js" crossorigin="anonymous"></script>
 
-### Hello 🌎, I'm Aidil Baihaqi
+# Hello 🌎, I'm Aidil Baihaqi
 
 A passionate Junior Programmer and Mentor. With experience in mentoring junior developers and sharing knowledge in web development. Successfully delivered numerous freelance projects, including dynamic web application development for individuals, businesses, and government organizations. Skilled in using Laravel, Tailwind CSS, React.js, and Figma to develop customized solutions for clients. Committed to personal growth and making a positive impact on the developer community. 🚀
 
 
-  - <i class="fa-solid fa-school"></i> I’m currently studying at <b>Raja Ali Haji Maritim University</b>
+  - 🏫 I’m currently studying at <b>Raja Ali Haji Maritim University</b>, majoring on <b>Informatics Engineering.</b>
   - 🌱 I’m currently life :>, Bintan, Riau Island
   - 💬 Ask me about **Html, Css, Sass, Bootstrap, Javascript, Typescript, React,  PHP,  Lumen, Laravel,  C#, .NET, Java, Spring Boot, Scrum, Google Cloud Platform, GKE, GCE, CI/CD, TDD, DDD, Docker, Kubernetes**
   - ⚡ Fun fact: I look like a hobbit.
@@ -19,23 +18,23 @@ A passionate Junior Programmer and Mentor. With experience in mentoring junior d
 </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RResabala2015&label=Profile%20views&color=0e75b6&style=flat" alt="RResabala2015" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aidilbaihaqi&label=Profile%20views&color=0e75b6&style=flat" alt="aidilbaihaqi" /> </p>
 
 
 ------
 <h3 align="left">Activity:</h3>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RResabala2015&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aidilbaihaqi&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-  <a href="https://github.com/RResabala2015">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=RResabala2015&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RResabala2015&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
+  <a href="https://github.com/aidilbaihaqi">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=aidilbaihaqi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aidilbaihaqi"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aidilbaihaqi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aidilbaihaqi"/>
   </a>
 </div>
 <p align="center">
-  <a href="https://github.com/RResabala2015">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RResabala2015&&theme=tokyonight" alt="RResabala2015" />
+  <a href="https://github.com/aidilbaihaqi">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aidilbaihaqi&&theme=tokyonight" alt="aidilbaihaqi" />
   </a>
 </p>
 
@@ -81,5 +80,5 @@ A passionate Junior Programmer and Mentor. With experience in mentoring junior d
 </table>
 
 ------
-[RResabala2015](https://github.com/RResabala2015)
+[aidilbaihaqi](https://github.com/aidilbaihaqi)
 26/07/2024
