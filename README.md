@@ -7,7 +7,7 @@ A passionate Junior Programmer and Mentor. Experienced in mentoring junior devel
 
 - 🌐 Focused on <b>Full Stack Development and Artificial Intelligence</b>
 - 🏫 Informatics Engineering Student on Raja Ali Haji Maritime University
-- ⚡ Fun fact: Enjoy playing Valorant
+- ⚡ Fun fact: Happy with FPS and RPG game
 
 <h3 align="left">Connect with me:</h3>
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
@@ -43,11 +43,11 @@ A passionate Junior Programmer and Mentor. Experienced in mentoring junior devel
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=php,python,laravel,nodejs,fastapi,flask,express,nginx,vite"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,vite"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,html,css,sass,js,ts,figma,tailwind"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,html,tailwind,css,sass,js,ts,figma"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
@@ -55,15 +55,15 @@ A passionate Junior Programmer and Mentor. Experienced in mentoring junior devel
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,phpstorm,eclipse,visualstudio"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,netbeans"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=windows,kali"/></td>
     </tr>
 </table>
 
