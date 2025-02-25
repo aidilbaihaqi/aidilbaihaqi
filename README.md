@@ -43,15 +43,15 @@ A passionate Junior Programmer and Mentor. Experienced in mentoring junior devel
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,vite"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=golang,laravel,express"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,html,css,sass,js,ts,figma"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,vite,tailwind,html,css,js,ts,figma"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
@@ -59,7 +59,7 @@ A passionate Junior Programmer and Mentor. Experienced in mentoring junior devel
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,netbean"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,netbeans"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
