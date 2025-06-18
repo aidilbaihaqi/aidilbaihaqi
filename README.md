@@ -1,6 +1,7 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 # Hello 🌎, I'm Aidil Baihaqi
+
 <img src="https://komarev.com/ghpvc/?username=aidilbaihaqi&label=Profile%20views&color=0e75b6&style=flat" alt="aidilbaihaqi" />
 
 A passionate Junior Programmer and Mentor. Experienced in mentoring junior developers and sharing knowledge in web development. Successfully completed various freelance projects, including dynamic web application development for individuals, businesses, and government organizations. Committed to self-development and making a positive impact on the developer community and always want to be someone who is useful to others in the field of information technology. 🚀
@@ -34,20 +35,23 @@ A passionate Junior Programmer and Mentor. Experienced in mentoring junior devel
 
 </div>
 
-
 <p align="left">  </p>
 
+---
 
-------
 <h3 align="left">Languages and Tools:</h3>
 <table>
     <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Fullstack:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=laravel,remixjs,nextjs"/></td>
+    </tr>
+    <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=go,laravel,express,django"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=go,express,django"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,nextjs,vite,bootstrap,tailwind,html,css,js,ts,figma"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,vite,bootstrap,tailwind,js,ts,figma"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
@@ -67,7 +71,8 @@ A passionate Junior Programmer and Mentor. Experienced in mentoring junior devel
     </tr>
 </table>
 
-------
+---
+
 <h3 align="left">Activity:</h3>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aidilbaihaqi&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -79,4 +84,4 @@ A passionate Junior Programmer and Mentor. Experienced in mentoring junior devel
   </a>
 </div>
 
-------
+---
