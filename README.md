@@ -43,7 +43,7 @@ A passionate Junior Programmer and Mentor. Experienced in mentoring junior devel
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Fullstack:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=laravel,remixjs,nextjs"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=laravel,remix,nextjs"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
