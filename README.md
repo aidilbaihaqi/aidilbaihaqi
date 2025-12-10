@@ -4,11 +4,17 @@
 
 <img src="https://komarev.com/ghpvc/?username=aidilbaihaqi&label=Profile%20views&color=0e75b6&style=flat" alt="aidilbaihaqi" />
 
-A passionate Junior Programmer and Mentor. Experienced in mentoring junior developers and sharing knowledge in web development. Successfully completed various freelance projects, including dynamic web application development for individuals, businesses, and government organizations. Committed to self-development and making a positive impact on the developer community and always want to be someone who is useful to others in the field of information technology. 🚀
+**Data Engineer · Machine Learning Engineer · Software Engineer (Full-Stack)**  
 
-- 🌐 Focused on <b>Full Stack Development and Artificial Intelligence</b>
-- 🏫 Informatics Engineering Student on Raja Ali Haji Maritime University
-- ⚡ Fun fact: Happy with FPS and RPG game
+I work on data-driven and AI-powered web applications — from backend APIs and system architecture to machine learning pipelines and clean, scalable frontend interfaces. I have delivered production-ready systems for individuals, businesses, and organizations using Laravel, Node.js/Express, React/Next.js, and MySQL. I also enjoy mentoring students and junior developers in programming, web development, and applied AI.
+
+- 🌐 Focused on **Data Engineering, Machine Learning, and Full-Stack Web Development**
+- 🧠 Interested in **AI for real-world problems** (bioinformatics, recommendation, and automation)
+- 🎓 Informatics Engineering student at **Raja Ali Haji Maritime University**
+- 💼 Experience in **freelance & organizational projects** (education, media, and entrepreneurship)
+- ⚡ Fun fact: I like FPS & RPG games and sometimes refactor code just for fun
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
@@ -35,40 +41,35 @@ A passionate Junior Programmer and Mentor. Experienced in mentoring junior devel
 
 </div>
 
-<p align="left">  </p>
-
 ---
 
 <h3 align="left">Languages and Tools:</h3>
+
 <table>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Fullstack:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=laravel,remix,nextjs"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=go,express,django"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,vite,bootstrap,tailwind,js,ts,figma"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,netbeans"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows,kali"/></td>
-    </tr>
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend & API:</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=laravel,nodejs,express,python,fastapi"/></td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Frontend:</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,figma"/></td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Data & ML:</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=python"/></td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb"/></td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Tools & Version Control:</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab,vscode"/></td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other:</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=wordpress,linux"/></td>
+  </tr>
 </table>
 
 ---
