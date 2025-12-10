@@ -1,23 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3F8CFF&center=true&vCenter=true&width=435&lines=Hello+World,+I'm+Aidil!;Data+Engineer;ML+Engineer;Full-Stack+Developer" alt="Typing SVG" />
   
-  <br/>
-
-  <a href="https://github.com/aidilbaihaqi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/aidilbaihaqi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/albyhaqee" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://youtube.com/channel/aidilbaihaqi" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  
-  <br/><br/>
-  
   <img src="https://komarev.com/ghpvc/?username=aidilbaihaqi&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="aidilbaihaqi" />
 </div>
 
