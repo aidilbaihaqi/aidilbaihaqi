@@ -12,7 +12,6 @@ I work on data-driven and AI-powered web applications — from backend APIs and 
 - 🧠 Interested in **AI for real-world problems** (bioinformatics, recommendation, and automation)
 - 🎓 Informatics Engineering student at **Raja Ali Haji Maritime University**
 - 💼 Experience in **freelance & organizational projects** (education, media, and entrepreneurship)
-- ⚡ Fun fact: I like FPS & RPG games and sometimes refactor code just for fun
 
 ---
 
@@ -56,7 +55,7 @@ I work on data-driven and AI-powered web applications — from backend APIs and 
   </tr>
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Data & ML:</td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=python"/></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=python,pytorch,sklearn,keras,fastai,jupyter,googlecolab,googlecolabnotebook"/></td>
   </tr>
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
