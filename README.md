@@ -66,7 +66,7 @@ I work on **data-driven and AI-powered web applications** — bridging the gap b
 <table>
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend & API:</td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=laravel,nodejs,express,python,fastapi,flask,gonic,go"/></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=laravel,nodejs,express,python,fastapi,flask,go"/></td>
   </tr>
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Frontend:</td>
