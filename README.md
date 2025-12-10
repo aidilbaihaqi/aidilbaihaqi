@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3F8CFF&center=true&vCenter=true&width=435&lines=Hello+World,+I'm+Aidil!;Data+Engineer;ML+Engineer;Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3F8CFF&left=true&vLeft=true&width=435&lines=Hello+World,+I'm+Aidil!;Data+Engineer;ML+Engineer;Full-Stack+Developer" alt="Typing SVG" />
   <br>
   <img src="https://komarev.com/ghpvc/?username=aidilbaihaqi&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="aidilbaihaqi" />
 </div>
