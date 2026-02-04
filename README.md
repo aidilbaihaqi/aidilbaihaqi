@@ -8,7 +8,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 I work on **data-driven and AI-powered web applications** — bridging the gap between backend system architecture, machine learning pipelines, and scalable frontend interfaces. I have delivered production-ready systems for individuals, businesses, and organizations.
 
