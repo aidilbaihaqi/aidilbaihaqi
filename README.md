@@ -1,3 +1,5 @@
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+
 <div align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3F8CFF&left=true&vLeft=true&width=435&lines=Hello+World,+I'm+Aidil!;Data+Engineer;ML+Engineer;Full-Stack+Developer" alt="Typing SVG" />
   <br>
@@ -14,8 +16,6 @@ I work on **data-driven and AI-powered web applications** — bridging the gap b
 - 🎓 Informatics Engineering student at **Raja Ali Haji Maritime University**.
 - 🤝 I enjoy mentoring students and junior developers in **Applied AI & Web Dev**.
 - 💼 Experience in **freelance & organizational projects** (Education, Media, Entrepreneurship).
-
----
 
 <h3 align="left">Connect with me:</h3>
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
@@ -49,7 +49,7 @@ I work on **data-driven and AI-powered web applications** — bridging the gap b
 <table>
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend & API:</td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=laravel,nodejs,express,python,fastapi,flask,go"/></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=go,python,php,laravel,nodejs,express,fastapi,flask,"/></td>
   </tr>
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Frontend:</td>
@@ -75,6 +75,17 @@ I work on **data-driven and AI-powered web applications** — bridging the gap b
 
 ---
 
-<h3 align="left">Activity:</h3>
+<h3 align="left">Activity Stats:</h3>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aidilbaihaqi&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <a href="https://github.com/aidilbaihaqi">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aidilbaihaqi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/aidilbaihaqi">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aidilbaihaqi&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/>
+</p>
